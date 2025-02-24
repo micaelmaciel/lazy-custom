@@ -5,4 +5,8 @@ require("after.plugins")
 require("conform").formatters_by_ft = {
 
   html = { "prettier" }, -- Specify "prettier" as the formatter for HTML files
+
+
 }
+
+colorscheme = "wildcharm"
